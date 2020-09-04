@@ -1,3 +1,3 @@
 # Sync With Github
 
-Test Github sync
+This repo is used to test the Gitlab to Github mirroring feature.
